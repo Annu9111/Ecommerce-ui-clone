@@ -10,6 +10,7 @@
     color:white;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 
 }
 .nav-logo{
@@ -78,4 +79,5 @@
     background-color: orange;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
+    color: #0f1111;
 }
