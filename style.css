@@ -6,7 +6,7 @@
 }
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color:black;
     color:white;
     display: flex;
     align-items: center;
@@ -83,7 +83,7 @@
     background-color: orange;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
-    color: #0f1111;
+    color: black;
 }
 
 .flag{
@@ -100,7 +100,7 @@
 
 }
 .flag-select{
-    background-color:#0f1111 ;
+    background-color:black;
     width:40px;
     height:20px;
     color:white;
@@ -119,6 +119,35 @@ span{
     font-weight: 700;
 }
 
+.nav-cart i{
+    font-size: 30px;
+}
+
 .nav-cart{
-    
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.panel{
+    height: 40px;
+    background-color: #161e26;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-ops p{
+    display: inline;
+}
+
+.panel-ops p a{
+    text-decoration: none;
+    color:white;
+}
+.panel-ops{
+    width:70%;
+    font-size: 0.85rem;
+}
+.panel-deal{
+    font-size:0.9rem;
 }
