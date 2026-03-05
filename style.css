@@ -32,6 +32,7 @@
 .add-icon img{
     height: 20px;
     width: 20px;
+    background-size: cover;
 }
 .add-first{
     color: #cccccc;
@@ -55,6 +56,9 @@
     width: 620px;
     height: 40px; 
     border-radius: 6px;
+}
+.nav-search:hover{
+    border:2px solid orange;
 }
 .search-select{
     background-color: #f3f3f3;
@@ -80,4 +84,41 @@
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
     color: #0f1111;
+}
+
+.flag{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height:40px;
+}
+.flag-logo img{
+    height: 16.2px;
+    width: 21.6px;
+    background-size: cover;
+    margin:9px 0px;
+
+}
+.flag-select{
+    background-color:#0f1111 ;
+    width:40px;
+    height:20px;
+    color:white;
+    font-size: 0.7rem;
+    border: none;
+    text-align: center;
+    /* padding: 2px; */
+    margin:9px 0px;
+}
+
+span{
+    font-size: 0.7rem;
+}
+.nav-sec{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+.nav-cart{
+    
 }
