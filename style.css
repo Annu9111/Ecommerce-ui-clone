@@ -184,3 +184,13 @@ span{
     text-decoration: none;
     color:#007185
 }
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    border: 2px solid black;
+    height: 300px;
+    width:23%;
+}
