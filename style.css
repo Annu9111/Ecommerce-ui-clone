@@ -186,11 +186,33 @@ span{
 }
 .shop-section{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
+    background-color: #d1f3f8;
 }
 
 .box{
-    border: 2px solid black;
-    height: 300px;
+    /* border: 2px solid black; */
+    height: 400px;
     width:23%;
+    background-color: white;
+    padding:20px 0px 15px;
+    margin-top: 10px;
+}
+.box-img img{
+    height: 300px;
+    width:268px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.box-content p{
+    color:#007185;
 }
