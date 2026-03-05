@@ -269,3 +269,22 @@ ul a:hover{
 .foot-panel3 p{
     margin-left: 10px;
 }
+
+.foot-panel4{
+    background-color: black;
+    color: white;
+    height: 80px;
+    font-size: 0.7rem;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.pages{
+    padding-top: 25px;
+    text-align: center;
+
+}
+.copy-write{
+    text-align: center;
+
+}
