@@ -138,6 +138,7 @@ span{
 }
 .panel-ops p{
     display: inline;
+    margin:0px 0px 0px 15px;
 }
 
 .panel-ops p a{
@@ -150,4 +151,9 @@ span{
 }
 .panel-deal{
     font-size:0.9rem;
+    font-weight: 700;
+}
+.panel-ops p a:hover{
+    border: 1px solid white;
+    padding: 8px;
 }
