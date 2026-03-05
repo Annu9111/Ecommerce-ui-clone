@@ -160,9 +160,13 @@ span{
 
 .hero-section{
     background-image: url("ama-hero.jpg");
-    height: 600px;
+    height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 25px;
 }
 
 .hero-message{
@@ -173,6 +177,7 @@ span{
     align-items: center;
     justify-content: center;
     font-size: 0.85rem;
+    width:90%;
 }
 
 .hero-message a{
