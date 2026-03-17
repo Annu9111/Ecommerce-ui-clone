@@ -5,11 +5,6 @@ This project focuses on replicating the UI design of Amazon, including layout, s
 
 ---
 
-## 🚀 Live Demo
-🔗 amazon-clone-frontend-rust.vercel.app
-
----
-
 ## 📌 Features
 
 - Amazon-like navigation bar
