@@ -6,7 +6,7 @@ This project focuses on replicating the UI design of Amazon, including layout, s
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-deployment-link.vercel.app/
+🔗 
 
 ---
 
